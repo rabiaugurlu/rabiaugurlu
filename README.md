@@ -1,5 +1,5 @@
-### Hi there 👋
-This is Rabia Uğurlu 
+### Hi there, I'm Rabia 👋
+
 
 This is the place where I opensource stuff  things 
 
