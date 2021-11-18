@@ -9,7 +9,7 @@ This is the place where I opensource stuff  things
 - 👨‍💻  Read more about my blogs at "[medium.com/@rabiaugurlu](https://medium.com/@rabiaugurlu)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=rabiaugurlu&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=rabiaugurlu&show_icons=true&theme=dark)
 
 
 
