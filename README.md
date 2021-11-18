@@ -11,9 +11,9 @@ This is the place where I opensource stuff  things
 
 🔗  Connect with me
 
-[![Linkedln Badge](https://img.shields.io/badge/-Linkedln-757575?style=flat-quare&labelColor=757575&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/rabiaugurlu/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link)       
+[![Linkedln Badge](https://img.shields.io/badge/-Linkedln-757575?style=flat-square&labelColor=blue&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/rabiaugurlu/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-C13584?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=link)](https://twitter.com/rabia_ugurlu) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=black&logo=Medium&logoColor=white&link=link)](https://medium.com/@rabiaugurlu)       
 
 
 Do not forget to view my open source projects below 👇🏻
