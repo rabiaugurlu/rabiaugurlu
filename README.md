@@ -22,5 +22,7 @@ Do not forget to view my open source projects below 👇🏻
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rabiaugurlu&show_icons=true&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=rabiaugurlu&color=ff69b4&style=flat)
+
 
 
