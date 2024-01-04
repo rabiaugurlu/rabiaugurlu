@@ -4,7 +4,7 @@
 This is the place where I opensource stuff  things 
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Javascript, React.
+- 🌱 I’m currently learning JavaScript, ReactJS, NextJS, TypeScript.
 - 💬 Ask me about anything.
 - 📫 How to reach me [rabiaugurluuu@gmail.com](https://rabiaugurluuu@gmail.com)
 - 📝 Read more about my blogs at [my medium page](https://medium.com/@rabiaugurlu)
